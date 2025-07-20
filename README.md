@@ -1,2 +1,3 @@
 # pykeepass2hvac
-import keepass2 secrets to hashicorp vault
+
+export keepass2 secrets and import to hashicorp vault
